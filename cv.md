@@ -25,3 +25,8 @@ function multiply (f, b){
 
 * Grodno State University
 * RS SCHOOL
+
+## Languages
+
+* Russian
+* English - A1 _(A2 in process)_
